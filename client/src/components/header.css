@@ -1,0 +1,10 @@
+#main_header{
+    position: absolute; top: 0; 
+    width: 100vw;
+    left: 0; 
+}
+
+
+#header_title{
+    font-size: 2em;
+}
