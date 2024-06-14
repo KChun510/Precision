@@ -6,3 +6,5 @@ Command to start proxy/API server.
 Command to start client side server.
 1. Navigatet to the "client" folder.
 2. Run command "npm run dev".
+
+When you clone the repo you'll need to add a ".env" file in the "server" dir. Whith your openAI api key.
