@@ -13,7 +13,7 @@ Using openAI to convert Natural Language to SQL.
 
 High-Level Overview:
 - Give openAI a string representation/description of your DB.
-The user asks a Question.
+- The user asks a Question.
 - Feed the question to LLM and direct it to form a query.
 - Send Query, receive data.
 - Form a response on given data.
