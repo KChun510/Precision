@@ -9,7 +9,8 @@ Command to start client-side server.
 
 When you clone the repo, you'll need to add a ".env" file in the "server" dir with your openAI API key.
 
-Using openAI to convert Natural Language to SQL. 
+Using openAI to convert Natural Language to SQL.
+
 High-Level Overview:
 - Give openAI a string representation/description of your DB.
 The user asks a Question.
